@@ -606,7 +606,7 @@ const EditableResume = (): JSX.Element => {
                     <h4 className="font-semibold">{crnt.technologiesInp}</h4>
                     <p className="">{crnt.featuresInp}</p>
 
-                    <hr />
+                    <hr className="my-2" />
                   </div>
                   <button
                     className="rounded-lg px-3 py-2 h-fit"
